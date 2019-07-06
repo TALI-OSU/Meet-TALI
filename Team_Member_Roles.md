@@ -8,6 +8,5 @@ The material manager is in charge of making sure all material needed for outreac
 
 ### Materials Manager: Unfilled
 The Material Manager is in charge of making sure that all needed materials are ready to go before any event.
-Duties:
 * Accounts for needed materials and equipment
 * Organizes equipment preparation sessions
