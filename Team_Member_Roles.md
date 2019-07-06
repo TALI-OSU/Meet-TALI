@@ -3,7 +3,7 @@
 
 
 
-### **Lead:** Aiden Nelson
+### Lead: *Aiden Nelson*
 The Lead is the manager of the group and main driver for outward and inward team functions.
 * Communicates with outreach connections
 * Organizes times for events
