@@ -3,14 +3,14 @@
 
 
 
-### Lead: Unfilled
+### Lead: Aiden Nelson
 The Lead is the manager of the group and main driver for outward and inward team functions.
 * Communicates with outreach connections
 * Organizes times for events
 * Guides meetings and discussions
 * Accounts for team feedback and improvement
 
-### Materials Manager: Unfilled
+### Materials Manager: [Unfilled]
 The Material Manager is in charge of making sure that all needed materials are ready to go before any event.
 * Accounts for needed materials and equipment
 * Organizes equipment preparation sessions
