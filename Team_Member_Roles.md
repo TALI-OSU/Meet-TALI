@@ -1,6 +1,6 @@
 # Team Roles
 #### This document specifies the team roles, their duties, and the member currently assigned to each position.
-
+<br/>
 
 ### Lead: *Aiden Nelson*
 The Lead is the manager of the group and main driver for outward and inward team functions.
@@ -12,6 +12,7 @@ The Lead is the manager of the group and main driver for outward and inward team
 
 ### Assistant Lead: *Kaitlin Hill*
 The Assistant Lead provides assistance for the lead in their duties.
+* Can carry out some of the tasks usually designated to the lead
 <br/>
 
 ### Materials Manager: *[Unfilled]*
