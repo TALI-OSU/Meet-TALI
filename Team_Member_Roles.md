@@ -1,4 +1,4 @@
-# Team Roles :performing_arts:
+# :performing_arts:  Team Roles
 #### This document specifies the team roles, their duties, and the member currently assigned to each position.
 <br/>
 
@@ -34,3 +34,13 @@ The Volunteer Coordinator is tasked with mustering and managing volunteers for e
 * Acts as the primary information resource for volunteers
 * Coordinates volunteers (gains commitments, provides information, and sends updates)
 <br/>
+
+### Opportunity Researcher
+The Opportunity Researcher looks for opportunities to engage the group.
+* Researches new opportunities the group could get involved in
+
+### Media/Publicity Promoter
+The publicity promoter is in charge of promoting the group.
+* Takes pictures during events
+* Creates promotional media about the group
+* Looks for promotional opprotunities (video ops, talks, blogs etc...) the group could be involved in
