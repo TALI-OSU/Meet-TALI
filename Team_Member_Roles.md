@@ -27,3 +27,9 @@ The Historian is in charge of managing and organizing team documentation.
 * Takes meeting minutes
 * Organizes and updates team documentation
 <br/>
+
+### Volunteer Coordinator: *[Unfilled]*
+The Volunteer Coordinator is tasked with mustering volunteers for events when they are needed.
+* Creates fliers and public announcements requesting for volunteers
+* Communicates...
+<br/>
