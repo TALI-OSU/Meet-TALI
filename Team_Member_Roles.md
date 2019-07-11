@@ -1,4 +1,4 @@
-# Team Roles
+# Team Roles :performing_arts:
 #### This document specifies the team roles, their duties, and the member currently assigned to each position.
 <br/>
 
@@ -29,7 +29,8 @@ The Historian is in charge of managing and organizing team documentation.
 <br/>
 
 ### Volunteer Coordinator: *[Unfilled]*
-The Volunteer Coordinator is tasked with mustering volunteers for events when they are needed.
+The Volunteer Coordinator is tasked with mustering and managing volunteers for events when they are needed.
 * Creates fliers and public announcements requesting for volunteers
-* Communicates...
+* Acts as the primary information resource for volunteers
+* Coordinates volunteers (gains commitments, provides information, and sends updates)
 <br/>
