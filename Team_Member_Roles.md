@@ -6,13 +6,24 @@
 The Lead is the manager of the group and main driver for outward and inward team functions.
 * Communicates with outreach connections
 * Organizes times for events
-* Guides meetings and discussions
-* Accounts for team feedback and improvement
+* Facilitates meetings and discussions
+* Gathers team feedback and improvement
+* Is go-to person for any issues that arise in the group or involves the group
+* Checks-in with team members to make sure they are happy on the team and the direction of team
+* Technical Research Manager
+  * Facilitates Research meetings
+  * Assigns tasks to research team members
+  * Keeps and updates timeline so team can successfully write a research paper
 <br/>
 
 ### :sunflower:  Assistant Lead: *Kaitlin Hill*
 The Assistant Lead provides assistance for the lead in their duties.
-* Can carry out some of the tasks usually designated to the lead
+* Supports lead in tasks, communications, and other areas as needed
+* Curriculum Coordinator
+  * Guides team with creating curriculum
+  * Gives edits on curriculum
+  * Approves final draft of curriculum
+  * Uses team input to decide which curriculum will be used for outreach
 <br/>
 
 ### :green_apple:  Materials Manager: *[Unfilled]*
@@ -38,10 +49,11 @@ The Volunteer Coordinator is tasked with mustering and managing volunteers for e
 ### :cookie:  Opportunity Researcher
 The Opportunity Researcher looks for opportunities to engage the group.
 * Researches new opportunities the group could get involved in
+* Reports findings to the group
 <br/>
 
 ### :tada:  Media/Publicity Promoter
 The publicity promoter is in charge of promoting the group.
 * Takes pictures during events
-* Creates promotional media about the group
+* Reaches out to OSU resources to create promotional media about the group
 * Looks for promotional opprotunities (video ops, talks, blogs etc...) the group could be involved in
