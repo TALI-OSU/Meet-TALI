@@ -46,13 +46,13 @@ The Volunteer Coordinator is tasked with mustering and managing volunteers for e
 * Coordinates volunteers (gains commitments, provides information, and sends updates)
 <br/>
 
-### :cookie:  Opportunity Researcher
+### :cookie:  Opportunity Researcher: *[Unfilled]*
 The Opportunity Researcher looks for opportunities to engage the group.
 * Researches new opportunities the group could get involved in
 * Reports findings to the group
 <br/>
 
-### :tada:  Media/Publicity Promoter
+### :tada:  Media/Publicity Promoter: *[Unfilled]*
 The publicity promoter is in charge of promoting the group.
 * Takes pictures during events
 * Reaches out to OSU resources to create promotional media about the group
