@@ -19,6 +19,6 @@ To join the Slack workspace you will have to request to be added by the team lea
 Email will be used when communicating with non team members. Be sure to include the dl <b>CozmOSU_project@engr.orst.edu</b> when sending and replying to emails in which the in which the team should be involved.
 
 <h2>:octopus:  Github</h2>
-Collaboration work and document tracking will be done within the team's github organization [TALI](https://github.com/TALI-OSU).
+Collaboration work and document tracking will be done within the team's github organization https://github.com/TALI-OSU.
 
 
