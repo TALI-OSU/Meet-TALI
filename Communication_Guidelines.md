@@ -3,12 +3,11 @@ This document specifies how you should be communicating with team members, and h
 
 <h3>What platform you be using to communicate?</h3>
 
-| Common Tasks  | Ideal Platform(s) |
+| Tasks  | Platform(s) |
 | ------------- | ------------- |
 | Questions to team members  | Slack, Team Meetings  |
 | Collaboration in curriculum development  | Slack, Github  |
 | Communication with non team members  | Email |
-| Complaint about team member to lead  | Slack (private message), Email (private message), Private Conversation |
 
 <h2>:speech_balloon:  Slack</h2>
 Slack is the primary communication tool that the team uses. You can think of it as a feature rich texting app. <b>Please install the Slack app on your phone</b>. We will be using Slack for texts and other similiar communication.
