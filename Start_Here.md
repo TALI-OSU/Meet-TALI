@@ -1,5 +1,5 @@
 # :golf:  Start Here!
-Welcome to the TALI team documentation. Here you should find everything you need to in order to get started. If you have not already, please read the items listed below.
+Welcome to the TALI team documentation. Here you should find everything you need to in order to get started.
 
 * [Vision](https://github.com/TALI-OSU/Resources/blob/master/Vision.md)
 * [Goals](https://github.com/TALI-OSU/Resources/blob/master/Goals.md)
@@ -7,7 +7,7 @@ Welcome to the TALI team documentation. Here you should find everything you need
 * [Communication Guidelines](https://github.com/TALI-OSU/Resources/blob/master/Communication_Guidelines.md)
 * [Team Member Roles and Responsibilities](https://github.com/TALI-OSU/Resources/blob/master/Team_Member_Roles.md)
 
-Before going to your first event of the term, please review the following items:
+Before going to your first classroom outreach, please review the following items:
 
 * [Expectations When Working in the Classroom](https://github.com/TALI-OSU/Expectations/blob/master/Team-Expectations-Classroom.md)
 * [Pre-Event Tasklist](https://github.com/TALI-OSU/Team-process/blob/master/before-outreach.md)
