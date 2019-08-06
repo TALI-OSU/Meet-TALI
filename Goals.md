@@ -1,3 +1,4 @@
+# TALI's Goals
 * Curriculum Goals:
   * Our group wants to develop curriculum that can easily be used in any classroom. 
   * Our curriculum should be approachable for educators. They should be able teach the curriculum with minimal training. 
