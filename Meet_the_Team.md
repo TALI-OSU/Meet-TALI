@@ -10,3 +10,5 @@ Sharlena studies Computer Science at Oregon State University. Once the lead of t
 
 ### Aiden Nelson
 Aiden is a 4th year student at Oregon State University. He currently studies Computer Science with a focus in Data Science. Aiden beleives that knowledge of Computer Science and programming can enable people to express their creativity and imagination in new and amazing ways. He is currently on track to continue his education into graduate school next fall. In his free time he enjoys cooking, playing board games, and making ceramic face mugs. 
+
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/72219727_1541226332687235_7320378839538860032_n.jpg?_nc_cat=109&_nc_ohc=DFErhzXflukAX-5p536&_nc_ht=scontent-sea1-1.xx&oh=7195068d11802d6843c53b353f42f2e9&oe=5E95347A" width="300">
