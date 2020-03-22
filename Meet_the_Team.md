@@ -15,7 +15,7 @@ Aiden is a 4th year student at Oregon State University. He currently studies Com
 
 
 ### Jessica Garcia
-Jessica is  a second year student studying Computer Science and Business at Oregon State University. Due to her curiosity and interest in exploring Computer Science outside of the classroom, she joined the team in hopes of engaging students to technology at a young age. Learning about Computer Science early on allows students to develop strong problem-solving skills which can be applied to their education and beyond. Jessica believes that through the team's mentorship, students will gain confidence in sharing and bringing their ideas to life. In her free time, Jessica enjoys hiking, exploring Oregon, and planning new adventures.
+Jessica is  a second year student studying Computer Science and Business at Oregon State University. Due to her curiosity and interest in exploring Computer Science outside of the classroom, she joined the team in hopes of engaging students in technology at a young age. Learning about Computer Science early on allows students to develop strong problem-solving skills which can be applied to their education and beyond. Jessica believes that through the team's mentorship, students will gain confidence in sharing and bringing their ideas to life. In her free time, Jessica enjoys hiking, exploring Oregon, and planning new adventures.
 
 <img src="images/jessica.png" width="300">
 
