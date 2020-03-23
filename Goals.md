@@ -3,3 +3,4 @@
  * To bring Computer Science to students who are not majoring in CS at Oregon State University, but want to learn CS.
  * Develop curriculum that can easily be taught to all people no matter their CS background or knowledge. 
  * Create engaging lessons for students. Students should enjoy learning.
+ * Diversify Computer Science by giving underrepresented students an opportunity to learn CS.
