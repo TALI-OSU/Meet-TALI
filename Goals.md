@@ -1,4 +1,5 @@
 # TALI's Goals
- * Develop curriculum that can easily be taught. 
- * Lessons should be engaging for students. Students should enjoy learning.
- * Lessons should cater to students of all levels.
+ * To bring Computer Science Education to K-12 students across Linn, Benton, and surrounding counties.
+ * To bring Computer Science to students who are not majoring in CS at Oregon State University, but want to learn CS.
+ * Develop curriculum that can easily be taught to all people no matter their CS background or knowledge. 
+ * Create engaging lessons for students. Students should enjoy learning.
